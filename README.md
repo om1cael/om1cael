@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hello, World! 🌍
 
-<!--
-**om1cael/om1cael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Micael**, a passionate developer who loves crafting code. I am studying or have experience with:
 
-Here are some ideas to get you started:
+- **Java** for backend wizardry
+-  **C#** for some game development
+- **HTML5** & **CSS3** for modern and responsive web design
+- **Git** for streamlined version control and collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 I’m currently mastering **Java**.
+- 💬 Ask me about **backend systems**.
+
+## 📊 GitHub Stats & Streaks 🔥
+
+<div align="center">
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=om1cael&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=om1cael&layout=compact&theme=radical)
+
+</div>
