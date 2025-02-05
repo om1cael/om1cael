@@ -3,9 +3,9 @@
 I'm **Micael**, a passionate developer who loves crafting code. I am studying or have experience with:
 
 - **Java** for backend wizardry
--  **C#** for some game development
-- **HTML5** & **CSS3** for modern and responsive web design
-- **Git** for streamlined version control and collaboration
+-  **C#** for game development
+- **HTML5** & **CSS3** for web design
+- **Git** for version control
 
 ## 🚀 About Me
 
