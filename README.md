@@ -9,7 +9,7 @@ I'm **Micael**, a passionate developer who loves crafting code. I am studying or
 
 ## 🚀 About Me
 
-- 🌱 I’m currently mastering **Java**.
+- 🌱 I’m currently mastering **Flutter**.
 - 💬 Ask me about **backend systems**.
 
 ## 📊 GitHub Stats & Streaks 🔥
