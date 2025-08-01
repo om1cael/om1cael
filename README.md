@@ -1,9 +1,11 @@
 ## 👋 Hello, World! 🌍
 
-I'm **Micael**, a passionate developer who loves crafting code. I am studying or have experience with:
+I'm **Micael**. I’ve been into code since early on, and now I’m always building, learning, or breaking something (on purpose or not 😅).
 
+Here’s what I’ve worked with so far:
 - **Java** for backend wizardry
 -  **C#** for game development
+-  **Flutter** for mobile development
 - **HTML5** & **CSS3** for web design
 - **Git** for version control
 
