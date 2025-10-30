@@ -1,24 +1,31 @@
-## 👋 Hello, World! 🌍
+# 👋 Hello, World!
 
-I'm **Micael**. I’ve been into code since early on, and now I’m always building, learning, or breaking something (on purpose or not 😅).
+I'm **Micael**, a self-taught developer passionate about **backend systems**, **mobile development** and occasionally **network programming**.  
 
-Here’s what I’ve worked with so far:
-- **Java** for backend wizardry
--  **C#** for game development
--  **Flutter** for mobile development
-- **HTML5** & **CSS3** for web design
-- **Git** for version control
+## 🧠 Tech Stack
 
-## 🚀 About Me
+- ☕ **Java**
+- 📱 **Flutter (Dart)**
+- 🌐 **HTML5 & CSS3**
+- 💾 **Git & GitHub**
 
-- 🌱 I’m currently mastering **Flutter**.
-- 💬 Ask me about **backend systems**.
+## 🚀 Highlight Projects
 
-## 📊 GitHub Stats & Streaks 🔥
+| Project | Description | Tech |
+|----------|--------------|------|
+| 💧 [**Hidroly**](https://github.com/om1cael/Hidroly) | A minimalist hydration tracker built with Flutter. | Flutter, Dart |
+| 💬 [**ChatLink Server**](https://github.com/om1cael/ChatLink-Server) | Real-time messaging server (global & private) built with Java NIO. | Java, NIO, Sockets |
+| 🎮 [**TicNet**](https://github.com/om1cael/TicNet) | Networked Tic-tac-toe server and client in Java. | Java, Sockets |
+| 🌐 [**httpecho**](https://github.com/om1cael/httpecho) | Lightweight HTTP server built from scratch for learning web fundamentals. | Java, Networking |
 
-<div align="center">
+## 💬 About Me
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=om1cael&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=om1cael&layout=compact&theme=radical)
+- 🌱 Currently exploring **Flutter**
+- 💡 Always building something new or improving the old ones
 
+## 📊 GitHub Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=om1cael&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om1cael&layout=compact&theme=radical" height="150"/>
 </div>
