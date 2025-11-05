@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 
-I'm **Micael**, a self-taught developer passionate about **backend systems**, **mobile development** and occasionally **network programming**.  
+I'm **Micael**, a self-taught developer passionate about **backend systems**, **mobile development** and **network programming**.  
 
 ## 🧠 Tech Stack
 
