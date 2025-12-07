@@ -15,7 +15,7 @@ I'm **Micael**, a self-taught developer passionate about **backend systems** and
 |----------|--------------|------|
 | 💧 [**Hidroly**](https://github.com/om1cael/Hidroly) | A minimalist hydration tracker built with Flutter. | Flutter, Dart |
 | 💬 [**ChatLink Server**](https://github.com/om1cael/ChatLink-Server) | Real-time messaging server (global & private) built with Java NIO. | Java, NIO, Sockets |
-| 🎮 [**TicNet**](https://github.com/om1cael/TicNet) | Networked Tic-tac-toe server and client in Java. | Java, Sockets |
+| 🎮 [**TicNet**](https://github.com/om1cael/TicNet) | Networked Tic-tac-toe server in Java. | Java, Sockets |
 | 🌐 [**httpecho**](https://github.com/om1cael/httpecho) | Lightweight HTTP server built from scratch for learning web fundamentals. | Java, Networking |
 
 ## 💬 About Me
