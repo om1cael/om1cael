@@ -22,10 +22,3 @@ I'm **Micael**, a self-taught developer passionate about **backend systems** and
 
 - 🌱 Currently exploring **Flutter**
 - 💡 Always building something new or improving the old ones
-
-## 📊 GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=om1cael&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om1cael&layout=compact&theme=radical" height="150"/>
-</div>
